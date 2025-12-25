@@ -67,5 +67,10 @@ The objective of this project is to design and implement a data pipeline that in
 - Enabled Power BI auto-report generation from Semantic Model.
 
 ---
+## Key Learnings
+- How to orchestrate end-to-end data pipelines in Microsoft Fabric.
+- Transforming and storing data as Delta tables in Lakehouse.
+- Automating Fact & Dimension loading using Stored Procedures.
+- Creating Semantic Models for Power BI reporting.
 
 For Detailed Technical Docs, Refer to this Link: [Trek Bike Sales Documentation](https://docs.google.com/document/d/1QrKhsWo6287eHkklFaUAm-tVXzGfVX1G/edit?usp=sharing&ouid=117502349783094744613&rtpof=true&sd=true)
