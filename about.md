@@ -1,3 +1,6 @@
+For Detailed Technical Docs, Refer to this Link: [Trek Bike Sales Documentation](https://docs.google.com/document/d/1QrKhsWo6287eHkklFaUAm-tVXzGfVX1G/edit?usp=sharing&ouid=117502349783094744613&rtpof=true&sd=true)
+
+---
 # Trek Bike Sales Analysis – End-to-End Project (Microsoft Fabric)
 This project demonstrates an end-to-end data engineering and analytics pipeline built using Microsoft Fabric. The workflow covers data ingestion, transformation, modeling, and reporting for Trek Bike Sales data.
 
@@ -73,4 +76,3 @@ The objective of this project is to design and implement a data pipeline that in
 - Automating Fact & Dimension loading using Stored Procedures.
 - Creating Semantic Models for Power BI reporting.
 
-For Detailed Technical Docs, Refer to this Link: [Trek Bike Sales Documentation](https://docs.google.com/document/d/1QrKhsWo6287eHkklFaUAm-tVXzGfVX1G/edit?usp=sharing&ouid=117502349783094744613&rtpof=true&sd=true)
